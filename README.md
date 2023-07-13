@@ -2,7 +2,8 @@
 Advanced Shopping Cart Tutorial With Php and MySqli Database
 
 DB diagram
-![Alt text](./upload/db.png)
+![db](https://github.com/ngocthoai1703/code_test_GO/assets/95737639/c8ed7968-a087-4738-bcde-bd640af96241)
+
 
 Before you execute this project make sure you insert values in the database.
 to insert values in the database just type this command.
